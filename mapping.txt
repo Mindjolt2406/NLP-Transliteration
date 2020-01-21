@@ -1,0 +1,88 @@
+#If there's a space, treat it like an a, if there is no vowel
+
+# Basic characters
+
+#Matras
+# an = chr(2362)
+#The chandra bindu
+ann = chr(2305) 
+ank = chr(2306)
+aha = chr(2307) 
+aa = chr(2366)
+# i goes on the left (unlike everything else) 
+i = chr(2367) 
+ee = chr(2368)
+ou = chr(2369)
+oou = chr(2370)
+re = chr(2371)
+oh = chr(2379)
+ao = chr(2380)
+ae = chr(2375)
+aye = chr(2376)
+nnn = chr(2364)
+
+#Vowels 
+Ah = chr(2309)
+Aa = chr(2310)
+I = chr(2311) 
+Ee = chr(2312)
+Ou = chr(2313)
+Oou = chr(2314)
+Tr = chr(2315)
+Ay = chr(2319)
+Ey = chr(2320)
+Oh = chr(2323)
+Ao = chr(2324)
+Ank = Ah+ank
+Aha = Ah+aha
+#Getter a better thing for this
+Em = Ay+ann 
+
+half = chr(2381)
+
+#Consonants
+ka = chr(2325)
+kha = chr(2326)
+ga = chr(2327)
+gha = chr(2328)
+rda = chr(2329)
+
+cha = chr(2330)
+Cha = chr(2331)
+ja = chr(2332)
+jha = chr(2333)
+Nya = chr(2334)
+
+Ta = chr(2335)
+Tha = chr(2336)
+Da = chr(2337)
+Dha = chr(2338)
+Rra = chr(2339)
+
+ta = chr(2340)
+tha = chr(2341)
+da = chr(2342)
+dha = chr(2343)
+na = chr(2344)
+
+nna = chr(2345)
+
+pa = chr(2346)
+pha = chr(2347)
+fa = pha+nnn
+ba = chr(2348)
+bha = chr(2349)
+ma = chr(2350)
+
+ya = chr(2351)
+ra = chr(2352)
+rna = chr(2353)
+la = chr(2354)
+lna = chr(2355)
+va = chr(2357)
+
+sha = chr(2358)
+Sha = chr(2359)
+sa = chr(2360)
+ha = chr(2361)
+0
