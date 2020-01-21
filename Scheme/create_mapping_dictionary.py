@@ -1,7 +1,6 @@
 s = input()
-t = "d = {"
+t = "halves = {"
 while(s!="0"):
-  print(s)
   if(s == ""):
     s = input()
     continue
@@ -10,7 +9,7 @@ while(s!="0"):
     continue
   else:
     l = s.split(' ')
-    t += "\""+l[0]+"\""+":"+l[2]+","
+    t += "\""+l[0][:-1]+"\""+":"+l[2]+","
   
   s = input()
 
