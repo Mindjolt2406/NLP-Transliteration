@@ -1,5 +1,5 @@
 s = input()
-t = "halves = {"
+t = "cap_vowel = {"
 while(s!="0"):
   if(s == ""):
     s = input()
@@ -9,7 +9,7 @@ while(s!="0"):
     continue
   else:
     l = s.split(' ')
-    t += "\""+l[0][:-1]+"\""+":"+l[2]+","
+    t += "\""+l[0]+"\""+":"+l[2]+","
   
   s = input()
 

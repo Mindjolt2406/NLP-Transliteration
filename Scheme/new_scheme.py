@@ -19,76 +19,76 @@
 # ao = chr(2380)
 # ae = chr(2375)
 # ey = chr(2376)
-# nnn = chr(2364)
+# NN = chr(2364)
 # tr = chr(2371)
 
-# #Vowels 
-# Ah = chr(2309)
-# Aa = chr(2310)
-# I = chr(2311) 
-# Ee = chr(2312)
-# Ou = chr(2313)
-# Oou = chr(2314)
-# Tr = chr(2315)
-# Ay = chr(2319)
-# Ey = chr(2320)
-# Oh = chr(2323)
-# Ao = chr(2324)
-# Ank = Ah+ank
-# Aha = Ah+aha
-# #Getter a better thing for this
-# Em = Ay+ann 
+#Vowels 
+Ah = chr(2309)
+Aa = chr(2310)
+I = chr(2311) 
+Ee = chr(2312)
+Ou = chr(2313)
+Oou = chr(2314)
+Tr = chr(2315)
+Ay = chr(2319)
+Ey = chr(2320)
+Oh = chr(2323)
+Ao = chr(2324)
+Ank = Ah+NK
+Aha = Ah+NHa
+#Getter a better thing for this
+Em = Ay+nn 
 
 # half = chr(2381)
 
 # #Consonants
-ka = chr(2325)
-Kha = chr(2326)
-ga = chr(2327)
-Gha = chr(2328)
-rda = chr(2329)
+# ka = chr(2325)
+# Kha = chr(2326)
+# ga = chr(2327)
+# Gha = chr(2328)
+# rda = chr(2329)
 
-cha = chr(2330)
-Chha = chr(2331)
-ja = chr(2332)
-Jha = chr(2333)
-Nya = chr(2334)
+# cha = chr(2330)
+# Chha = chr(2331)
+# ja = chr(2332)
+# Jha = chr(2333)
+# Nya = chr(2334)
 
-tTa = chr(2335)  #Careful
-Ttha = chr(2336) #Careful
-dDa = chr(2337)  #Careful
-Ddha = chr(2338) #Careful
-Rra = chr(2339)
+# tTa = chr(2335)  #Careful
+# Ttha = chr(2336) #Careful
+# dDa = chr(2337)  #Careful
+# Ddha = chr(2338) #Careful
+# Rra = chr(2339)
 
-tta = chr(2340)
-Tha = chr(2341)
-dda = chr(2342)
-Dha = chr(2343)
-na = chr(2344)
+# tta = chr(2340)
+# Tha = chr(2341)
+# dda = chr(2342)
+# Dha = chr(2343)
+# na = chr(2344)
 
-Nna = chr(2345)
+# Nna = chr(2345)
 
-pa = chr(2346)
-Pha = chr(2347)
-fa = pha+nnn
-ba = chr(2348)
-Bha = chr(2349)
-ma = chr(2350)
+# pa = chr(2346)
+# Pha = chr(2347)
+# fa = Pha+NN
+# ba = chr(2348)
+# Bha = chr(2349)
+# ma = chr(2350)
 
-ya = chr(2351)
-ra = chr(2352)
-Rna = chr(2353)
-la = chr(2354)
-Lna = chr(2355)
-va = chr(2357)
+# ya = chr(2351)
+# ra = chr(2352)
+# Rna = chr(2353)
+# la = chr(2354)
+# Lna = chr(2355)
+# va = chr(2357)
 
-sha = chr(2358)
-sHha = chr(2359)
-Sa = chr(2360)
-ha = chr(2361)
-KSha = ka+half+sHha
-TRa = tta+half+ra
-Gya = ja+half+Nya
+# sha = chr(2358)
+# sHha = chr(2359)
+# Sa = chr(2360)
+# ha = chr(2361)
+# KSha = ka+half+sHha
+# TRa = tta+half+ra
+# Gya = ja+half+Nya
 
 # Parsing the text
 # Store the halves separately 
